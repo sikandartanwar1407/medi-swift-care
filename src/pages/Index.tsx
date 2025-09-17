@@ -1,5 +1,6 @@
 import { HeroSection } from "@/components/HeroSection";
 import { ServiceCard } from "@/components/ServiceCard";
+import { PartnershipSection } from "@/components/PartnershipSection";
 import { 
   Calendar, 
   UserCheck, 
@@ -26,7 +27,7 @@ const services = [
   },
   {
     title: "Medicine Delivery",
-    description: "Order medicines online with home delivery and prescription tracking",
+    description: "Order affordable generic medicines through PM-JAP partnership with home delivery",
     icon: Pill,
     href: "/medicine"
   },
@@ -96,6 +97,9 @@ const Index = () => {
           </div>
         </div>
       </section>
+      
+      {/* Partnership Section */}
+      <PartnershipSection />
       
       {/* Stats Section */}
       <section className="py-20 bg-gradient-primary text-primary-foreground">
