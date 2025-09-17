@@ -17,7 +17,7 @@ export function HeroSection() {
       <div className="relative z-10 container mx-auto px-6 text-center text-primary-foreground">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Medi<span className="text-success-light">Swift</span>
+            Dawa<span className="text-success-light">Mitra</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 opacity-90 leading-relaxed">
             Your Complete Healthcare Management System

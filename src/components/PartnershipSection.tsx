@@ -46,7 +46,7 @@ export function PartnershipSection() {
                 
                 <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
                   Through our partnership with the Government of India&apos;s PM-JAP initiative, 
-                  MediSwift ensures access to high-quality generic medicines at up to 
+                  DawaMitra ensures access to high-quality generic medicines at up to
                   <span className="font-semibold text-success"> 50-90% lower costs</span> 
                   compared to branded alternatives.
                 </p>

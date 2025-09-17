@@ -108,7 +108,7 @@ const Emergency = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-primary" />
-                  <span className="font-medium">MediSwift Hotline: (555) 123-4567</span>
+                  <span className="font-medium">DawaMitra Hotline: (555) 123-4567</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-success" />
